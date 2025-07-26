@@ -1,0 +1,9 @@
+repositoryID: 
+owners:
+  - name: Aaron Mehar 
+    email: aaron@mehar.me 
+ignore:
+  # These charts are related to the common library
+  - name: common
+  - name: common-test
+  - name: kah-common-chart
